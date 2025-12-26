@@ -1,0 +1,7 @@
+{
+  "name": "Trip Buddy",
+  "description": "Your intelligent travel companion using graph optimization and AI to plan perfect trips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
